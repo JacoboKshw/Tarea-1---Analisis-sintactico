@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este programa en Python permite leer expresiones matemáticas desde un archivo de texto (`pruebaGr.txt`), construir su árbol sintáctico y mostrarlo en consola de forma jerárquica.
+Este programa en Python permite leer expresiones matemáticas desde un archivo de texto (`pruebaGr.txt`), construir su árbol AST y mostrarlo en consola de forma jerárquica.
 
 ---
 
